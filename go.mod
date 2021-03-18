@@ -1,3 +1,3 @@
-module github.com/apple-server
+module github.com/DaviTF85/apple-server
 
 go 1.15
