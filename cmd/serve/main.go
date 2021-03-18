@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"apple-server/internal/controllers"
+	"github.com/DaviTF85/apple-server/internal/controllers"
 )
 
 func main() {
